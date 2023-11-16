@@ -36,7 +36,7 @@ function Banner() {
     >
       <div className="w-full mt-5 justify-center items-center flex">
         <div className="w-2/3 ">
-          <h3 className="text-3xl font-semibold font-sans">Hi , I am </h3>
+          <h3 className="text-3xl font-semibold font-sans ">Hi , I am </h3>
           <h1 className="mt-3 text-5xl font-bold italic transition-transform transform hover:scale-105">Himanshu Sharma</h1>
           <h2 className="mt-3 text-3xl">
             And a{" "}
@@ -46,7 +46,7 @@ function Banner() {
             ></span>{" "}
           </h2>
           <br />
-          <p className=" mt-3 ">
+          <p className=" mt-3 font-semibold">
             {" "}
             Highly motivated Software Developer 2 years of experience in
             developing and implementing high performance applications. 

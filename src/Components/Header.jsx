@@ -18,7 +18,7 @@ const Header = () => {
   const [menuLinks, setMenuLinks] = useState([
     {
       title: "Home",
-      link: "/",
+      link: "#portfolio",
       id: 1,
     },
     {

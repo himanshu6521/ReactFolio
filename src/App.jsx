@@ -17,8 +17,8 @@ function App() {
     <>
      
 
-      <Header />
-      <section id="/" ><Banner /></section> 
+     <section id="/" ><Header /></section> 
+      <section id="portfolio" ><Banner /></section> 
       <section id="about"> <About /></section>
       <section id="projects"><Services /></section>
       <section id="skills"><Expertise /></section>
