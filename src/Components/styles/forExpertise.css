@@ -1,0 +1,61 @@
+/* expertise-styles.css */
+
+.expertise-container {
+    background-color: #191b28; /* Dark purple background */
+    color: #a9a9a9; /* Light grey text color */
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .expertise-heading {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #61dafb; /* Sky blue heading color */
+  }
+  
+  .expertise-description {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .hire-button {
+    background-color: #ff4500; /* Orange button background */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .hire-button:hover {
+    background-color: #ff5733;
+  }
+  
+  .skills-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  
+  .skill-tag {
+    background-color: #61dafb; /* Sky blue skill tag background */
+    color: #282c34;
+    padding: 10px 15px;
+    border-radius: 15px;
+    margin: 10px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+    
+  }
+  
+  .skill-tag:hover {
+    transform: scale(1.1);
+    background-color: orangered;
+    color: aliceblue;
+  }
+  
